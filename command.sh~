@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export http_proxy="http://p12168:lavi*vk@netmon.iitb.ac.in:80/"
 cd  scilab.in/textbook_companion/generate_book
 now=$(date +"%Y-%m-%d-%S")
 filename="my_program.$now.log"
